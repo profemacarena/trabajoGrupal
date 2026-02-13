@@ -1,4 +1,26 @@
-Pablo Espinosa López, alias el Viejo
+<<<<<<< HEAD
+<<<<<<< HEAD
+Arturo
+=======
 maria maestro
+Pedro
+>>>>>>> eaf8961571fd13cfb2227474a89628f1228cf4d5
+=======
+<<<<<<< HEAD
+Rafa
+=======
+Pablo Espinosa López, alias el Viejo
+Luis López
+maria maestro
+>>>>>>> 9ea3eb09d991dc22cdd7f0144bc452a8466ee028
+<<<<<<< HEAD
+>>>>>>> a4f71acef8aa128f65346d0b60691bc3415e4f7b
+=======
+>>>>>>> 9ea3eb09d991dc22cdd7f0144bc452a8466ee028
+>>>>>>> eaf8961571fd13cfb2227474a89628f1228cf4d5
+
+
+Francisco Lena Marcos 1ºDAW - 2025
+Alejandro Carrillo Pecci
 
 Pablo Quesada
